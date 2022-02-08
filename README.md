@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RiaVadhavkar
+👋 Hi, I’m @RiaVadhavkar
 
 <!---
 - 👀 I’m interested in ...
