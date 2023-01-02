@@ -1,4 +1,7 @@
-👋 Hi, I’m Ria
+<!--👋 Hi, I’m Ria --->
+
+👋 Hi! I'm Ria, a senior in Computer Science at Virginia Tech College of Engineering. 
+💻 I am seeking a full-time New Grad/Entry-level Software Engineering role for 2023!
 
 <!---
 - 👀 I’m interested in ...
