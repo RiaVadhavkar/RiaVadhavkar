@@ -1,6 +1,6 @@
 👋 Hi! I'm Ria, a senior in Computer Science at Virginia Tech College of Engineering.
 <br>
-💻 I am seeking a full-time New Grad/Entry-level Software Engineering role for 2023!
+💻 I am seeking a full-time New Grad/Entry-level Software Engineering role for 2024!
 <br>
 🌱 Relevant Skills: C, Python, Java, Linux, Bash, Swift, Kotlin, Git
 <!---
