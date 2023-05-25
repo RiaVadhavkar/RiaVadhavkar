@@ -4,7 +4,7 @@
 <br>
 💻 I am seeking a full-time New Grad/Entry-level Software Engineering role for 2024!
 <br>
-🌱 Relevant Skills: C • Python • Java • Linux • Bash • Swift • Kotlin • Git • Web Development • Teamwork • Git • Leadership • Mobile Application Development
+🌱 Relevant Skills: C • Python • Java • Linux • Bash • Swift • Kotlin • Git • Web Development • Teamwork • Leadership
 <!---
 - 👋 Hi, I’m Ria
 - 👀 I’m interested in ...
