@@ -1,8 +1,8 @@
 👋 Hi! I'm Ria, a recent graduate of Computer Science at Virginia Tech College of Engineering.
 <br>
-👩‍💻 I love working on inspirational team-based projects -- check them out in Projects!
+👩‍💻 I love working on inspirational team-based projects -- check them out in Repositories!
 <br>
-💻 I am seeking a full-time New Grad/Entry-level Software Engineering role for 2024!
+💻 I am seeking a full-time New Grad/Entry-level Software Engineering role!
 <br>
 🌱 Relevant Skills: C • Python • Java • Linux • Bash • Swift • Kotlin • Git • Web Development • Teamwork • Leadership
 <!---
